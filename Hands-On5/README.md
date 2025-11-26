@@ -1,7 +1,8 @@
 # Hands-on 5: Analizador Sintáctico (Flex + Bison)
 
 ## Integrantes
-* [Tu Nombre]
+* Jonathan Guillermo Ramos Flores
+* Fabiola Escobedo Quezada
 
 ## Descripción
 Analizador sintáctico para un subconjunto de C. Utiliza **Flex** para obtener tokens y **Bison** para validar la gramática libre de contexto.
